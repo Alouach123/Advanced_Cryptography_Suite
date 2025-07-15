@@ -1,5 +1,5 @@
 
-# Author : ALOUACH Abdennour
+# Author : ALOUACH Abdennour (Student of MIATE 2024/2026)
 # Title  : Encryption algorithms (with Python)
 # Date   : 14/07/2025
 
