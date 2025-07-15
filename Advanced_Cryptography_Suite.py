@@ -350,7 +350,7 @@ else:
 # Parameters of the elliptic curve: y^2 = x^3 + ax + b mod p
 a = 2
 b = 2
-p = 64621  # small prime number for simplicity
+p = 17  # small prime number for simplicity
 
 # Base point (generator)
 G = (5, 1)
@@ -403,7 +403,7 @@ print("✅ Shared key is identical:", shared_A == shared_B)
 # Elliptic curve : y² = x³ + ax + b mod p
 a = 2
 b = 2
-p = 64621  # Small prime number
+p = 17  # Small prime number
 
 # Base point (generator)
 G = (5, 1)
